@@ -1,0 +1,29 @@
+{
+  "checkpoint": "logs/rsl_rl/g1_tracking/2026-10-18_09-20-40_the_feels_full_g25s_ft2/model_26500.pt",
+  "motion_file": "src/assets/motions/g1/the_feels_full_g25s.npz",
+  "task": "Unitree-G1-Tracking",
+  "friction": 0.8,
+  "duration_s": 139.84,
+  "terminations_disabled": false,
+  "success": true,
+  "fall_reason": null,
+  "fall_bodies": null,
+  "ee_body_names": [
+    "left_ankle_roll_link",
+    "right_ankle_roll_link",
+    "left_wrist_yaw_link",
+    "right_wrist_yaw_link"
+  ],
+  "t_end": null,
+  "first_fall_s": null,
+  "completed_ratio": 1.0,
+  "falls": 0,
+  "mean_joint_err_rad": 0.094,
+  "mean_body_pos_err_rel_m": 0.0353,
+  "max_body_pos_err_rel_m": 0.0907,
+  "final_root_xy_drift_m": 0.014,
+  "max_root_xy_drift_m": 0.179,
+  "mean_action_rate": 0.1101,
+  "p95_action_rate": 0.2246,
+  "video": "/content/drive/MyDrive/pai_final/outputs/videos/front_policy_final_ft2_model_26500_noghost.mp4"
+}

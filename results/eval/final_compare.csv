@@ -1,0 +1,31 @@
+run,ckpt,mu,rep,tag,success,first_fall_s,fall_reason,fall_bodies,mean_joint_err_rad,mean_body_pos_err_rel_m,max_body_pos_err_rel_m,max_root_xy_drift_m,mean_action_rate
+the_feels_full_g25s_ft3_rob,model_28000.pt,0.8,,the_feels_full_g25s_ft3_rob_model_28000_mu0.8,False,6.8,['ee_body_pos'],"{'left_elbow_link': 0.334, 'left_shoulder_roll_link': 0.294, 'left_wrist_yaw_link': 0.238, 'right_ankle_roll_link': -0.215}",0.1132,0.052,0.2424,0.79,0.0612
+the_feels_full_g25s_ft3_rob,model_28000.pt,0.9,,the_feels_full_g25s_ft3_rob_model_28000_mu0.9,True,,,,0.095,0.0378,0.0889,0.198,0.1104
+the_feels_full_g25s_ft3_rob,model_28000.pt,0.5,,the_feels_full_g25s_ft3_rob_model_28000_mu0.5,True,,,,0.0932,0.0365,0.0906,0.181,0.1118
+the_feels_full_g25s_ft3_rob,model_28000.pt,1.0,,the_feels_full_g25s_ft3_rob_model_28000_mu1.0,True,,,,0.095,0.0377,0.0878,0.198,0.1099
+the_feels_full_g25s_ft3_rob,model_28000.pt,1.1,,the_feels_full_g25s_ft3_rob_model_28000_mu1.1,True,,,,0.0965,0.039,0.1191,0.47,0.113
+the_feels_full_g25s_ft3_rob,model_28000.pt,1.2,,the_feels_full_g25s_ft3_rob_model_28000_mu1.2,True,,,,0.0961,0.0386,0.0977,0.194,0.1111
+the_feels_full_g25s_ft3_rob,model_28500.pt,0.8,,the_feels_full_g25s_ft3_rob_model_28500_mu0.8,True,,,,0.0931,0.0362,0.0979,0.177,0.1114
+the_feels_full_g25s_ft3_rob,model_28500.pt,0.5,,the_feels_full_g25s_ft3_rob_model_28500_mu0.5,True,,,,0.0917,0.0354,0.0988,0.169,0.1122
+the_feels_full_g25s_ft3_rob,model_28500.pt,0.9,,the_feels_full_g25s_ft3_rob_model_28500_mu0.9,True,,,,0.0939,0.0368,0.0998,0.574,0.1132
+the_feels_full_g25s_ft3_rob,model_28500.pt,1.2,,the_feels_full_g25s_ft3_rob_model_28500_mu1.2,False,6.68,['ee_body_pos'],"{'left_shoulder_roll_link': 0.366, 'left_elbow_link': 0.343, 'left_wrist_yaw_link': 0.248, 'left_hip_roll_link': 0.224}",0.1173,0.0515,0.2763,0.858,0.0532
+the_feels_full_g25s_ft3_rob,model_28500.pt,1.0,,the_feels_full_g25s_ft3_rob_model_28500_mu1.0,True,,,,0.0948,0.0374,0.1313,0.596,0.1124
+the_feels_full_g25s_ft3_rob,model_28500.pt,1.1,,the_feels_full_g25s_ft3_rob_model_28500_mu1.1,True,,,,0.0947,0.0371,0.0989,0.199,0.1113
+the_feels_full_g25s_ft3_rob,model_28999.pt,0.5,,the_feels_full_g25s_ft3_rob_model_28999_mu0.5,True,,,,0.0922,0.0359,0.0926,0.197,0.1107
+the_feels_full_g25s_ft3_rob,model_28999.pt,0.8,,the_feels_full_g25s_ft3_rob_model_28999_mu0.8,True,,,,0.0941,0.0375,0.0929,0.323,0.1113
+the_feels_full_g25s_ft3_rob,model_28999.pt,0.9,,the_feels_full_g25s_ft3_rob_model_28999_mu0.9,True,,,,0.0943,0.0376,0.093,0.227,0.1102
+the_feels_full_g25s_ft3_rob,model_28999.pt,1.0,,the_feels_full_g25s_ft3_rob_model_28999_mu1.0,True,,,,0.0945,0.0376,0.0927,0.248,0.11
+the_feels_full_g25s_ft2,model_26997.pt,0.5,,the_feels_full_g25s_ft2_model_26997_mu0.5,True,,,,0.0938,0.035,0.0923,0.168,0.1105
+the_feels_full_g25s_ft2,model_26997.pt,0.8,,the_feels_full_g25s_ft2_model_26997_mu0.8,True,,,,0.0942,0.0352,0.0934,0.16,0.1089
+the_feels_full_g25s_ft2,model_26997.pt,0.9,,the_feels_full_g25s_ft2_model_26997_mu0.9,True,,,,0.0947,0.0355,0.0933,0.156,0.1088
+the_feels_full_g25s_ft2,model_26997.pt,1.0,,the_feels_full_g25s_ft2_model_26997_mu1.0,False,6.56,['ee_body_pos'],"{'left_wrist_yaw_link': -0.028, 'right_elbow_link': -0.028, 'right_wrist_yaw_link': -0.027, 'left_elbow_link': 0.015}",0.1117,0.0536,0.212,0.861,0.0646
+the_feels_full_g25s_ft2,model_26997.pt,1.1,,the_feels_full_g25s_ft2_model_26997_mu1.1,True,,,,0.0955,0.0361,0.093,0.163,0.1094
+the_feels_full_g25s_ft2,model_26500.pt,0.5,,the_feels_full_g25s_ft2_model_26500_mu0.5,True,,,,0.0929,0.0348,0.0883,0.178,0.1114
+the_feels_full_g25s_ft2,model_26500.pt,0.8,,the_feels_full_g25s_ft2_model_26500_mu0.8,True,,,,0.0934,0.035,0.0908,0.185,0.1101
+the_feels_full_g25s_ft2,model_26500.pt,0.9,,the_feels_full_g25s_ft2_model_26500_mu0.9,True,,,,0.0941,0.0355,0.0917,0.183,0.1103
+the_feels_full_g25s_ft2,model_26500.pt,1.0,,the_feels_full_g25s_ft2_model_26500_mu1.0,True,,,,0.0952,0.0363,0.1006,0.457,0.1115
+the_feels_full_g25s_ft2,model_26500.pt,1.1,,the_feels_full_g25s_ft2_model_26500_mu1.1,True,,,,0.0946,0.0359,0.0895,0.184,0.1102
+the_feels_full_g25s_ft3_rob,model_28999.pt,1.1,,the_feels_full_g25s_ft3_rob_model_28999_mu1.1,True,,,,0.0956,0.0387,0.1187,0.588,0.1118
+the_feels_full_g25s_ft3_rob,model_28999.pt,1.2,,the_feels_full_g25s_ft3_rob_model_28999_mu1.2,True,,,,0.0961,0.0392,0.0989,0.578,0.1118
+the_feels_full_g25s_ft2,model_26997.pt,1.2,,the_feels_full_g25s_ft2_model_26997_mu1.2,False,7.14,['ee_body_pos'],"{'left_wrist_yaw_link': 0.242, 'left_elbow_link': 0.186, 'left_shoulder_roll_link': 0.116, 'right_ankle_roll_link': -0.103}",0.1087,0.0477,0.1463,0.459,0.0585
+the_feels_full_g25s_ft2,model_26500.pt,1.2,,the_feels_full_g25s_ft2_model_26500_mu1.2,True,,,,0.0946,0.036,0.0904,0.192,0.111

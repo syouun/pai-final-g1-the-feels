@@ -1,0 +1,13 @@
+run,ckpt,mu,rep,tag,success,first_fall_s,fall_reason,fall_bodies,mean_joint_err_rad,mean_body_pos_err_rel_m,max_body_pos_err_rel_m,max_root_xy_drift_m,mean_action_rate
+the_feels_full_g25s_ft2,model_26500.pt,1.0,_rep4,the_feels_full_g25s_ft2_model_26500_mu1.0_rep4,True,,,,0.0944,0.0358,0.0915,0.183,0.1106
+the_feels_full_g25s_ft2,model_26500.pt,1.0,_rep2,the_feels_full_g25s_ft2_model_26500_mu1.0_rep2,True,,,,0.0947,0.036,0.0971,0.211,0.111
+the_feels_full_g25s_ft2,model_25000.pt,1.0,_rep2,the_feels_full_g25s_ft2_model_25000_mu1.0_rep2,True,,,,0.096,0.0366,0.0966,0.23,0.1103
+the_feels_full_g25s_ft2,model_25000.pt,1.0,_rep1,the_feels_full_g25s_ft2_model_25000_mu1.0_rep1,True,,,,0.0963,0.0368,0.0968,0.229,0.1102
+the_feels_full_g25s_ft2,model_26500.pt,1.0,_rep1,the_feels_full_g25s_ft2_model_26500_mu1.0_rep1,True,,,,0.0944,0.0359,0.0908,0.186,0.1102
+the_feels_full_g25s_ft2,model_26500.pt,1.0,_rep3,the_feels_full_g25s_ft2_model_26500_mu1.0_rep3,True,,,,0.0944,0.0358,0.0913,0.186,0.1103
+the_feels_full_g25s_ft2,model_25000.pt,1.0,_rep4,the_feels_full_g25s_ft2_model_25000_mu1.0_rep4,True,,,,0.0961,0.0367,0.0969,0.229,0.1103
+the_feels_full_g25s_ft2,model_26997.pt,1.0,_rep2,the_feels_full_g25s_ft2_model_26997_mu1.0_rep2,True,,,,0.0949,0.0356,0.0925,0.167,0.109
+the_feels_full_g25s_ft2,model_26997.pt,1.0,_rep3,the_feels_full_g25s_ft2_model_26997_mu1.0_rep3,True,,,,0.095,0.0358,0.0936,0.158,0.1088
+the_feels_full_g25s_ft2,model_25000.pt,1.0,_rep3,the_feels_full_g25s_ft2_model_25000_mu1.0_rep3,True,,,,0.0961,0.0367,0.0969,0.234,0.1101
+the_feels_full_g25s_ft2,model_26997.pt,1.0,_rep4,the_feels_full_g25s_ft2_model_26997_mu1.0_rep4,True,,,,0.0951,0.0358,0.0933,0.162,0.1094
+the_feels_full_g25s_ft2,model_26997.pt,1.0,_rep1,the_feels_full_g25s_ft2_model_26997_mu1.0_rep1,True,,,,0.095,0.0358,0.0928,0.162,0.1092

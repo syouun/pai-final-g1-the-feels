@@ -1,0 +1,212 @@
+{
+  "csv": "/content/drive/MyDrive/pai_final/outputs/motions/the_feels_20s_ma5.csv",
+  "frames": 629,
+  "duration_s": 20.97,
+  "t0": 59.815,
+  "mass_kg": 33.34,
+  "frames_flagged": {
+    "hover": 466,
+    "pull": 0,
+    "slip": 0,
+    "self_collision": 86,
+    "joint_limit": 0,
+    "joint_vel": 0
+  },
+  "frames_any_flag": 468,
+  "airborne_ratio": 0.754,
+  "peak_required_vertical_force_mg": 1.65,
+  "joint_limit_top": {},
+  "joint_vel_top": {},
+  "self_collision_pairs": {
+    "left_wrist_yaw_link × right_wrist_yaw_link": 47,
+    "torso_link × left_wrist_yaw_link": 11,
+    "right_hip_yaw_link × right_wrist_yaw_link": 8,
+    "left_hip_yaw_link × left_wrist_yaw_link": 6,
+    "left_wrist_pitch_link × right_wrist_yaw_link": 5,
+    "left_hip_roll_link × left_wrist_yaw_link": 4,
+    "left_wrist_yaw_link × right_wrist_pitch_link": 4,
+    "left_hip_roll_link × left_wrist_pitch_link": 1
+  },
+  "per_second": [
+    {
+      "sec": 59,
+      "hover": 6,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 60,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 5,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 61,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 62,
+      "hover": 16,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 64,
+      "hover": 3,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 65,
+      "hover": 24,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 66,
+      "hover": 20,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 6,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 68,
+      "hover": 3,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 69,
+      "hover": 13,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 70,
+      "hover": 28,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 71,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 72,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 73,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 74,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 9,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 75,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 10,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 76,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 77,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 78,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 15,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 79,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 18,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 80,
+      "hover": 23,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 23,
+      "joint_limit": 0,
+      "joint_vel": 0
+    }
+  ]
+}

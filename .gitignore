@@ -1,0 +1,19 @@
+# 再配布できないもの・大きいもの（README の「含めていないもの」を参照）
+*.mp4
+*.mov
+*.npz
+*.pkl
+*.pt
+!policy/model_26500/model_26500.pt
+*.onnx
+*.ckpt
+input/
+models/
+gvhmr_ckpt/
+logs/
+outputs/
+# 作業の控え
+*.bak
+__pycache__/
+.ipynb_checkpoints/
+.~lock*

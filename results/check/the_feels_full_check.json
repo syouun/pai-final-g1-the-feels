@@ -1,0 +1,1214 @@
+{
+  "csv": "/content/drive/MyDrive/pai_final/outputs/motions/the_feels_full.csv",
+  "frames": 4196,
+  "duration_s": 139.87,
+  "t0": 0.0,
+  "mass_kg": 33.34,
+  "frames_flagged": {
+    "hover": 2842,
+    "pull": 0,
+    "slip": 53,
+    "self_collision": 1021,
+    "joint_limit": 15,
+    "joint_vel": 0
+  },
+  "frames_any_flag": 3197,
+  "airborne_ratio": 0.681,
+  "peak_required_vertical_force_mg": 2.16,
+  "joint_limit_top": {
+    "left_shoulder_roll_joint": 12,
+    "right_shoulder_roll_joint": 3
+  },
+  "joint_vel_top": {},
+  "self_collision_pairs": {
+    "left_wrist_yaw_link × right_wrist_yaw_link": 456,
+    "left_wrist_pitch_link × right_wrist_yaw_link": 146,
+    "right_hip_roll_link × right_wrist_yaw_link": 66,
+    "left_hip_roll_link × left_wrist_yaw_link": 60,
+    "left_wrist_yaw_link × right_wrist_pitch_link": 60,
+    "torso_link × right_wrist_yaw_link": 43,
+    "left_hip_yaw_link × left_wrist_yaw_link": 41,
+    "left_wrist_pitch_link × right_wrist_pitch_link": 34
+  },
+  "per_second": [
+    {
+      "sec": 0,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 13,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 1,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 30,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 2,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 30,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 3,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 16,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 4,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 25,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 5,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 30,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 6,
+      "hover": 0,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 21,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 7,
+      "hover": 5,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 8,
+      "hover": 7,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 9,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 10,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 11,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 1,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 12,
+      "hover": 18,
+      "pull": 0,
+      "slip": 4,
+      "self_collision": 13,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 13,
+      "hover": 5,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 25,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 14,
+      "hover": 0,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 22,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 16,
+      "hover": 9,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 17,
+      "hover": 25,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 18,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 19,
+      "hover": 18,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 20,
+      "hover": 20,
+      "pull": 0,
+      "slip": 2,
+      "self_collision": 8,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 22,
+      "hover": 19,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 2,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 23,
+      "hover": 29,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 24,
+      "hover": 8,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 16,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 25,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 6,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 26,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 8,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 27,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 30,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 28,
+      "hover": 20,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 1,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 29,
+      "hover": 29,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 12,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 30,
+      "hover": 6,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 21,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 31,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 3,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 32,
+      "hover": 0,
+      "pull": 0,
+      "slip": 7,
+      "self_collision": 10,
+      "joint_limit": 3,
+      "joint_vel": 0
+    },
+    {
+      "sec": 33,
+      "hover": 15,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 8,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 34,
+      "hover": 13,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 35,
+      "hover": 23,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 36,
+      "hover": 26,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 3,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 37,
+      "hover": 25,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 4,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 38,
+      "hover": 21,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 39,
+      "hover": 24,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 40,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 41,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 42,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 5,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 43,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 2,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 44,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 45,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 46,
+      "hover": 21,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 1,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 47,
+      "hover": 2,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 50,
+      "hover": 0,
+      "pull": 0,
+      "slip": 4,
+      "self_collision": 7,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 51,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 9,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 53,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 5,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 54,
+      "hover": 3,
+      "pull": 0,
+      "slip": 5,
+      "self_collision": 2,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 55,
+      "hover": 6,
+      "pull": 0,
+      "slip": 3,
+      "self_collision": 4,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 56,
+      "hover": 7,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 3,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 57,
+      "hover": 0,
+      "pull": 0,
+      "slip": 4,
+      "self_collision": 4,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 58,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 1,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 59,
+      "hover": 0,
+      "pull": 0,
+      "slip": 3,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 60,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 6,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 62,
+      "hover": 3,
+      "pull": 0,
+      "slip": 2,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 64,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 66,
+      "hover": 0,
+      "pull": 0,
+      "slip": 9,
+      "self_collision": 7,
+      "joint_limit": 2,
+      "joint_vel": 0
+    },
+    {
+      "sec": 68,
+      "hover": 1,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 69,
+      "hover": 0,
+      "pull": 0,
+      "slip": 2,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 70,
+      "hover": 5,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 71,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 72,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 73,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 74,
+      "hover": 29,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 9,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 75,
+      "hover": 29,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 12,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 76,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 77,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 78,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 16,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 79,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 18,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 80,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 30,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 81,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 24,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 82,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 23,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 83,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 16,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 84,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 14,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 85,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 86,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 2,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 87,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 12,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 88,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 4,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 89,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 3,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 90,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 3,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 91,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 6,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 92,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 93,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 94,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 8,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 95,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 15,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 96,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 8,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 97,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 11,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 98,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 8,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 99,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 20,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 100,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 5,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 101,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 3,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 102,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 14,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 103,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 4,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 104,
+      "hover": 23,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 4,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 105,
+      "hover": 17,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 106,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 2,
+      "joint_vel": 0
+    },
+    {
+      "sec": 107,
+      "hover": 28,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 108,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 8,
+      "joint_limit": 2,
+      "joint_vel": 0
+    },
+    {
+      "sec": 109,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 110,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 5,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 111,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 112,
+      "hover": 28,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 113,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 114,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 115,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 116,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 11,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 117,
+      "hover": 29,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 12,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 118,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 3,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 119,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 120,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 26,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 121,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 21,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 122,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 30,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 123,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 26,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 124,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 24,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 125,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 22,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 126,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 9,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 127,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 128,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 4,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 129,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 130,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 3,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 131,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 132,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 1,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 133,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 134,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 135,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 4,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 136,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 20,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 137,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 30,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 138,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 30,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 139,
+      "hover": 26,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 26,
+      "joint_limit": 0,
+      "joint_vel": 0
+    }
+  ]
+}

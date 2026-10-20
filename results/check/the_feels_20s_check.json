@@ -1,0 +1,188 @@
+{
+  "csv": "/content/drive/MyDrive/pai_final/outputs/motions/the_feels_20s.csv",
+  "frames": 629,
+  "duration_s": 20.97,
+  "t0": 59.815,
+  "mass_kg": 33.34,
+  "frames_flagged": {
+    "hover": 315,
+    "pull": 0,
+    "slip": 9,
+    "self_collision": 91,
+    "joint_limit": 5,
+    "joint_vel": 0
+  },
+  "frames_any_flag": 336,
+  "airborne_ratio": 0.517,
+  "peak_required_vertical_force_mg": 1.76,
+  "joint_limit_top": {
+    "left_shoulder_roll_joint": 4,
+    "right_shoulder_roll_joint": 1
+  },
+  "joint_vel_top": {},
+  "self_collision_pairs": {
+    "left_wrist_yaw_link × right_wrist_yaw_link": 47,
+    "torso_link × left_wrist_yaw_link": 11,
+    "right_hip_yaw_link × right_wrist_yaw_link": 10,
+    "left_wrist_pitch_link × right_wrist_yaw_link": 7,
+    "left_hip_yaw_link × left_wrist_yaw_link": 6,
+    "left_hip_roll_link × left_wrist_yaw_link": 4,
+    "left_wrist_yaw_link × right_wrist_pitch_link": 4,
+    "left_hip_roll_link × left_wrist_pitch_link": 1
+  },
+  "per_second": [
+    {
+      "sec": 60,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 6,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 62,
+      "hover": 3,
+      "pull": 0,
+      "slip": 1,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 64,
+      "hover": 0,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 66,
+      "hover": 4,
+      "pull": 0,
+      "slip": 6,
+      "self_collision": 7,
+      "joint_limit": 2,
+      "joint_vel": 0
+    },
+    {
+      "sec": 68,
+      "hover": 1,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 69,
+      "hover": 0,
+      "pull": 0,
+      "slip": 2,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 70,
+      "hover": 16,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 71,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 72,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 73,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 74,
+      "hover": 29,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 9,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 75,
+      "hover": 29,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 12,
+      "joint_limit": 1,
+      "joint_vel": 0
+    },
+    {
+      "sec": 76,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 77,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 0,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 78,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 16,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 79,
+      "hover": 30,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 18,
+      "joint_limit": 0,
+      "joint_vel": 0
+    },
+    {
+      "sec": 80,
+      "hover": 23,
+      "pull": 0,
+      "slip": 0,
+      "self_collision": 23,
+      "joint_limit": 0,
+      "joint_vel": 0
+    }
+  ]
+}
